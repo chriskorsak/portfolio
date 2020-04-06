@@ -1,0 +1,9 @@
+img {
+  width: 350px;
+  float: left;
+}
+
+span {
+  font-family: monospace;
+  background-color: rgb(235, 235, 235);
+}
