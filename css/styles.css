@@ -15,14 +15,6 @@ h1, h2, h3 {
   color: #23527c !important;
 }
 
-/* a:link, a:visited {
-
-}
-
-a:hover, a:focus, a:active {
-
-} */
-
 .jumbotron {
   background-color: rgb(235, 235, 235);
   border: 2px solid rgb(230, 230, 230);
