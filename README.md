@@ -1,4 +1,4 @@
-# Portfolio Landing Page
+# Portfolio
 
 #### This is my GitHub portfolio landing page. -April, 2020
 
@@ -10,7 +10,7 @@ This is my central location online where you can view all of my web development 
 
 ## Setup/Installation Requirements
 
-* None. Please view my portfolio landing page on [GitHub Pages](https://chriskorsak.github.io/portfolio-landing-page) or the source code in this GitHub repository.
+* None. Please view my web development portfolio on [GitHub Pages](https://chriskorsak.github.io/portfolio) or the source code in this GitHub repository.
 
 ## Known Bugs
 
