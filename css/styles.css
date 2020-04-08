@@ -4,6 +4,13 @@ img {
   border-radius: 6px;
 }
 
+img.projects {
+  float: right;
+  width: 33%;
+  margin-left: 1%;
+  margin-bottom: 1%;
+}
+
 /* style all code/technology text referenced in web dev project descriptions */
 span.tech {
   font-family: monospace;
