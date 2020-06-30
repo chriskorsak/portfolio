@@ -1,6 +1,6 @@
 # Portfolio
 
-#### This is my GitHub portfolio landing page. -April, 2020
+#### This is my GitHub portfolio landing page. -June, 2020
 
 #### By _**Chris Korsak**_
 
